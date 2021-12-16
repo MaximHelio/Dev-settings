@@ -1,4 +1,4 @@
 # Summary
 
-* [GIT](#./git)
+* [GIT](#https://github.com/gosunyoung/Dev-settings/tree/main/git)
 
